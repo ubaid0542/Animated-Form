@@ -1,2 +1,2 @@
 # Animated Form
-This form is create using HTML & CSS.
+This form is created through only HTML & CSS.
